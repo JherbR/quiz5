@@ -19,6 +19,8 @@ INSTALL DEPENDENCIES
 
 pip install -r requirements.txt
 
+put your gemini api key in the .env
+
 RUN MIGRATIONS
 
 py manage.py migrate
